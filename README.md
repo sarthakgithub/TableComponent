@@ -1,2 +1,0 @@
-# TableComponent
-Created with CodeSandbox
